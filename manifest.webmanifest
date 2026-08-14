@@ -1,0 +1,17 @@
+{
+  "name": "单片机学习",
+  "short_name": "单片机",
+  "description": "零基础到实战的单片机系统学习：12 章精讲（GPIO、定时器、中断、串口、ADC、显示、传感器…）+ 习题练习，支持离线使用。",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0A84FF",
+  "theme_color": "#0A84FF",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
